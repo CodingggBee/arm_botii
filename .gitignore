@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+.Trash-
+
+# IDEs
+.idea/
+.vscode/
+
+# Secrets
+.env
+
+# Chroma / local DB
+/tmp/chroma_db
+backend/chroma_db
+
+# Logs
+*.log
